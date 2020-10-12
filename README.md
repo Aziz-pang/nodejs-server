@@ -22,7 +22,9 @@ node-js的安装移步至[官网](https://nodejs.org/)。下面涉及的知识�
 
 ### 启动服务器
 ```sh
-git clone 
+# 克隆项目
+git clone https://github.com/Aziz-pang/nodejs-server.git
+
 # 打开目录，使用 dev 开发，每次更新可自动重启服务器
 
 node-dev static-server.js # 静态服务文件
